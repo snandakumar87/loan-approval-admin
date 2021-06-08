@@ -12,7 +12,6 @@ This workshop is aimed at providing hands on experience on the authoring and man
 * Explore Task Inbox (User Task Approval)
 * Real-Time Process and Task Monitoring
 
-.Prerequisite (Note: the last section of this workshop showcases how the process data can be visualized in a external reporting system like Kibana. If using a local install, you need to connect RHPAM to an elastic instance. Check link:https://developers.redhat.com/blog/2020/05/04/monitor-business-metrics-with-red-hat-process-automation-manager-elasticsearch-and-kibana/[Process Insights with Kibana])
 * Successful completion of the _Environment Setup Lab_
 or
 * An existing, accessible, DM/PAM 7.5+ environment.
